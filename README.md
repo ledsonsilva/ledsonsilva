@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hello, I'm Ledson Silva!
 
-<!--
-**ledsonsilva/ledsonsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer** | 💻 Passionate about clean code & scalable solutions  
 
-Here are some ideas to get you started:
+Welcome to my GitHub! Here you'll find projects related to **backend, frontend, databases, and DevOps**. I'm always exploring new technologies and best practices to build efficient and maintainable software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 Technologies & Tools  
+🔹 **Languages:** Java, JavaScript, TypeScript
+🔹 **Frameworks:** Spring Boot, Angular, React, Node.js
+🔹 **Databases:** Oracle, SqlServer, PostgreSQL, MySql, MongoDB, Redis  
+🔹 **Cloud & DevOps:** Docker, Kubernetes, AWS, DigitalOcean  
+🔹 **Other Tools:** Git, CI/CD, Linux
+
+---
+
+## 📊 GitHub Stats  
+
+### 📈 Contribution Metrics  
+![GitHub Streak](https://streak-stats.demolab.com?user=ledsonsilva&theme=github-dark-blue&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ledsonsilva&show_icons=true&theme=github_dark&hide_border=true)  
+
+### 🔥 Most Used Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ledsonsilva&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ledsonsilva)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:ledson.dev@gmail.com)
+
+---
+
+🔹 **"Code is like humor. When you have to explain it, it’s bad."** – Cory House  
