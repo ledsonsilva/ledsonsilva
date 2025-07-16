@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Ledson Silva from Brazil, nice to meet you!<br><br>- 🔭 I’m working as Bradesco Bank.<br>- ⚡ In my free time I like play call of duty.</p>
+<p align="left">I'm Ledson Silva from Brazil, nice to meet you!<br><br>- 🔭 I’m working as Bradesco Bank.<br>- ⚡ In my free time, I like to play Call of Duty.</p>
 
 ###
 
